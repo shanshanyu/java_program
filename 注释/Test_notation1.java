@@ -1,7 +1,7 @@
 
 
 // public class 表示公共类每个文件只能有一个       #单行注释
-public class Test_notation{
+class Test_notation123{
 
   /*
  *public static void main 是主函数，是程序的入口   #多行注释
@@ -11,13 +11,6 @@ public class Test_notation{
   }
 }
 
- /**
- *   * 
- *     * @param name
- *       * @return name 
- *         * @throws Exception
- *           * {@code name} 
- *             */
 
 /**
  *这是文档注释
