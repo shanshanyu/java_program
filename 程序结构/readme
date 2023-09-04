@@ -1,0 +1,43 @@
+java 中的程序结构有三种：
+顺序结构
+
+分支结构
+
+循环结构
+
+
+
+顺序结构就是从上往下执行
+
+
+分支结构：条件判断语句要用小括号括起来，在 c 和 java 中都需要，在 python 中不需要
+if..
+
+
+if..else..
+
+
+if..else if..else if..else..
+
+
+在 c 和 java 中，它们的分支结构都是一样的，和 python 不一样,python 中的是 if..elif..elif..else..
+
+
+switch (x){
+  case 'x':  xx;break;
+  case 'y':  xx;break;
+  default 'z':xx;
+}
+
+switch..语句也和c中的一样
+
+
+循环结构：
+while..
+
+do..while..
+
+for(;;)
+
+java 中的循环结构和 c 中的是一样的,和python中的不一样
+
