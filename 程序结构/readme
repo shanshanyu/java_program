@@ -41,3 +41,8 @@ for(;;)
 
 java 中的循环结构和 c 中的是一样的,和python中的不一样
 
+java 中还有一种foreach 循环，在 JDK1.5+ 才有的:
+for (int i :arr){
+  System.out.println(i);
+}
+这个和 python 中的 for..in 循环很像，用来遍历可迭代对象很方便。
