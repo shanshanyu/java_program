@@ -46,3 +46,5 @@ for (int i :arr){
   System.out.println(i);
 }
 这个和 python 中的 for..in 循环很像，用来遍历可迭代对象很方便。
+
+java 里的循环判断条件和 c 里面不一样，java 里面要求判断条件的结果是 布尔值，c 里面没有布尔值，所有表达式或值为真都可以作为判断条件。
