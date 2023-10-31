@@ -67,3 +67,5 @@ java中的this应该放到一个实例方法中去使用，这一点和python是
 
 代码块：静态代码块   构造代码块  普通代码块，静态代码块只调用一次，在类加载的时候调用的，适合做初始化
 final：可以修饰 类   方法  变量     final修饰变量后，变量变成常量
+
+访问控制：public  protected   default   private   一般只用 public  private
