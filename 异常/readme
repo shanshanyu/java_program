@@ -1,0 +1,12 @@
+java中的异常结构：
+
+try{
+  xx
+}catch(异常类   异常对象){
+  xx
+}finally{
+  xx
+}
+
+
+
